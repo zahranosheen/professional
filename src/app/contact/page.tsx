@@ -3,7 +3,7 @@ const ContactPage = () => {
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <div className="text-center mb-12">
         <h1 className="text-4xl font-bold text-gray-900 mb-6">Contact Us</h1>
-        <p className="text-xl text-gray-600">We'd love to hear from you. Get in touch with us today.</p>
+        <p className="text-xl text-gray-600">We do love to hear from you. Get in touch with us today.</p>
       </div>
 
       <div className="grid md:grid-cols-2 gap-12">

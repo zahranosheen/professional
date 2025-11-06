@@ -10,8 +10,8 @@ const AboutPage = () => {
         <div className="bg-white rounded-lg shadow-sm border p-8">
           <h2 className="text-2xl font-semibold text-gray-900 mb-4">Our Story</h2>
           <p className="text-gray-700 mb-6">
-            We are passionate about creating simple, elegant solutions that make a difference. Our team believes in the
-            power of clean code, thoughtful design, and user-centered experiences.
+            We are passionate about creating simple elegant solutions that make a difference. Our team believes in the
+            power of clean code thoughtful design and user-centered experiences.
           </p>
 
           <h2 className="text-2xl font-semibold text-gray-900 mb-4">Our Mission</h2>

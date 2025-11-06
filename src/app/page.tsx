@@ -14,7 +14,7 @@ const HomePage = () => {
       <div className="mt-16 grid md:grid-cols-3 gap-8">
         <div className="text-center p-6 bg-white rounded-lg shadow-sm border">
           <h3 className="text-lg font-semibold text-gray-900 mb-2">Modern Stack</h3>
-          <p className="text-gray-600">Built with Next.js 15+, TypeScript, and Tailwind CSS for optimal performance.</p>
+          <p className="text-gray-600">Built with Next.js 15+ TypeScript and Tailwind CSS for optimal performance.</p>
         </div>
         <div className="text-center p-6 bg-white rounded-lg shadow-sm border">
           <h3 className="text-lg font-semibold text-gray-900 mb-2">Clean Design</h3>
